@@ -82,7 +82,7 @@ function hotelCost (n){
     }
     return totalCost ;
 }
-var total = hotelCost(22);
+var total = hotelCost(2);
 console.log (total);
 
 
@@ -100,7 +100,7 @@ function megaFriend (n){
     return max ;
 
 }
-var name = ['Razon','Azizul','farjanaAkter','novaMoni','korimUddin']
+var name = ['Razon','Azizul','farjanaAkter','FouzianovaMoni','korimUddin']
 var largeName =megaFriend(name);
 console.log (largeName);
 
